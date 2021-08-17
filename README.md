@@ -1,5 +1,5 @@
-#First Java Project
+# First Java Project
 
-#Build With
+# Build With
 - Mysql
 - Swing
